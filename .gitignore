@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Personal documents (never committed)
+data/*
+!data/.gitkeep
+
+# Vector index (contains a copy of the documents)
+chroma_db/*
+!chroma_db/.gitkeep
+
+# Secrets
+.env
