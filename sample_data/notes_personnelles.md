@@ -1,6 +1,6 @@
 # Notes personnelles
 
-## Objectifs 2026
+## Objectifs 2027
 - Obtenir la certification CompTIA Security+ avant juin.
 - Apprendre les bases des agents IA et de la sécurité des LLM.
 
