@@ -43,7 +43,8 @@ def main():
         ],
         vector_store=vector_store,
     )
-    nodes = pipeline.run(documents=documents)
+    
+    nodes = pipeline.run(documents=documents, show_progress=True)
     print(f"Stored {len(nodes)} chunks in {config.CHROMA_DIR}")
 
 
